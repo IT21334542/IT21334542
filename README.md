@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21334542&label=Profile%20views&color=0e75b6&style=flat" alt="it21334542" /> </p>
   <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="backgroundCodeGif" width="50%" height="50%" align="right"/>
+  
 - 🔭 I’m currently immersed on **enhancing my development skills through hands-on projects and continuous learning**
 
 - 🌱 I’m currently learning **Nextjs**
